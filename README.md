@@ -1,4 +1,4 @@
-.\rem   # Task
+# Task
 Remap JSON file to the following structure:
 
 ```
